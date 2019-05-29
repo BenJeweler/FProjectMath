@@ -1,4 +1,5 @@
 # FProjectMath
+
 public double calcStanDev (ArrayList<Integer> data) { 
       int x = 0;
       for (int i = 0; i < data.length(); i++) {
